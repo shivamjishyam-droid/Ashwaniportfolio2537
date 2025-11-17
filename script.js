@@ -164,8 +164,8 @@ document.querySelectorAll('.project-item').forEach(item => {
 // Download resume function
 function downloadResume() {
     const link = document.createElement('a');
-    link.href = 'resume.pdf';
-    link.download = 'resume.pdf';
+    link.href = 'Ashwaniresum.pdf';
+    link.download = 'Ashwaniresum.pdf';
     link.click();
 }
 
